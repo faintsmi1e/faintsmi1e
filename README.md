@@ -1,4 +1,4 @@
-# [FaintSmi1e](https://www.linkedin.com/in/stanislav-i-792529242/)
+# [FaintSmi1e 🥤](https://www.linkedin.com/in/stanislav-i-792529242/)
 
 Senior Front End Engineer / Front End Architect / Middle Full Stack Engineer
 
