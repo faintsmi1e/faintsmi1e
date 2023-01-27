@@ -2,19 +2,17 @@
 
 Senior Front End Engineer / Front End Architect / Middle Full Stack Engineer
 
-Fox-obsessed polymath, X-shaped specialist, posthumanist, technological singularity visionary.
+ X-shaped specialist, posthumanist, technological singularity visionary.
 
 ## Interested in
 
 - Science & high-tech: physics ( quantum physics, astrophysics ), philosophy, physical & philosophical cosmology, biology, computer science & information technologies, artifical intelligence
-- Natural languages: English ( C1, on a road to C2 ), Spanish ( A1, actively studying ), German ( A1 ), also Japanese and Finnish as sources of inspiration
+- Natural languages: English ( C1, on a road to C2 )
 - Video games: Minecraft, League of Legends, Wow
 - Activities: surfing, [Ingress](https://ingress.com)
 
 ## Some of sci-fi favorites
 
-- Stargate franchise ( especially Stargate: Universe )
-- Battlestar Galactica
 - The Expanse
 - Cowboy Bebop
 - Altered Carbon
