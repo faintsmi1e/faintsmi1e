@@ -20,10 +20,7 @@ Senior Front End Engineer / Front End Architect / Middle Full Stack Engineer
 - Foundation
 - Ghost in the Shell
 
-## Some of YouTube favorites
-https://www.youtube.com/@LofiGirl
-
-## CV
+## LI
 
 - [LinkedIn](https://www.linkedin.com/in/stanislav-i-792529242)
 
